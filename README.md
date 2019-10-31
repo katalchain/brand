@@ -1,4 +1,4 @@
-[<img src = "https://raw.githubusercontent.com/katalchain/brand/master/assets/katalchain/banner.png" width = "100%">](https://katalchain.com)
+[<img src = "https://raw.githubusercontent.com/katalchain/brand/master/assets/banner/banner.png" width = "100%">](https://katalchain.com)
 
 # brand
 

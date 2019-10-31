@@ -20,13 +20,14 @@ To request permission to use a logo, write us an email to: [company@trinkler.sof
 
 Each of the projects/companies contains the following assets. Please only use the assets according to your usecase.
 
-| Name    | Github | Web | _Partnerships_ | _Press_ |
-| :------ | :----: | :-: | :------------: | :-----: |
-| Banner  |   ✔    |  ✖  |       ✖        |    ✖    |
-| Favicon |   ✖    |  ✔  |       ✖        |    ✖    |
-| Icon    |   ✖    |  ✔  |       ✖        |    ✖    |
-| Logo    |   ✖    |  ✖  |       ✔        |    ✔    |
-| Social  |   ✖    |  ✔  |       ✖        |    ✖    |
+| Name      | Github | Web | _Partnerships_ | _Press_ |
+| :-------- | :----: | :-: | :------------: | :-----: |
+| Banner    |   ✔    |  ✖  |       ✖        |    ✖    |
+| Favicon   |   ✖    |  ✔  |       ✖        |    ✖    |
+| Icon      |   ✖    |  ✔  |       ✖        |    ✖    |
+| Logo      |   ✖    |  ✖  |       ✔        |    ✔    |
+| Social    |   ✖    |  ✔  |       ✖        |    ✖    |
+| Telemetry |   ✖    |  ✖  |       ✖        |    ✖    |
 
 ## Create
 
@@ -38,4 +39,5 @@ convert logo/logo.svg logo/logo.png
 convert social/social.svg social/social.png
 convert logo/logo.png -resize 128x128 favicon/favicon.png
 convert logo/logo.png -resize 48x48 icon/icon.png
+convert telemetry/telemetry.svg telemetry/telemetry.png
 ```

@@ -16,7 +16,7 @@ This Repo contains assets for the following:
 
 **DO NOT USE ANY OF THESE LOGOS WITHOUT OUR CONSENT**
 
-To request permission to use a logo, write us an email to: [company@trinkler.software](mailto:company@trinkler.software?subject=[GitHub]%20Request%20Permission%20To%20Use%20Logo).
+To request permission to use a logo, write us an email to: [hello@katalchain.com](mailto:hello@katalchain.com?subject=[GitHub]%20Request%20Permission%20To%20Use%20Logo).
 
 Each of the projects/companies contains the following assets. Please only use the assets according to your usecase.
 
